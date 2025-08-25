@@ -1,0 +1,91 @@
+{
+    "WBUI2":
+    {
+        "settings":
+        {
+            "openbutton": 1,
+            "hideicon": false,
+            "hideiconafter": 10,
+            "iconurl": "https://i.ibb.co/CKXjygDh/pngegg-17-2-1.png",
+            "disableicontext": true,
+            "iconposition": 1,
+            "icontextcolor": 0,
+            "openonstart": true,
+            "openonstartonlynewplayers": false,
+            "updateinterval": 24
+        },
+        "tabs": [
+            {
+                "layout": 1,
+                "buttontext": "<RichColor Color=\"1,0,1,1\">FULL FIBER</>",
+                "imageurl": "https://i.ibb.co/1Yvbg249/Background-108.png",
+                "content": [
+                    {
+                        "title": "Welcome to FULL FIBER PVP",
+                        "text": ""
+                    }
+                ]
+            },
+            {
+                "layout": 2,
+                "buttontext": "<RichColor Color=\"1,0,1,1\">RULES</>",
+                "imageurl": "https://i.ibb.co/PvMbLSqj/Background-68.png",
+                "content": [
+                    {
+                        "title": "",
+                        "text": "<RichColor Color=\"0.5,0,0.5,1\">GENERAL</>\n1.1) Self-promotion of any kind will result in a server ban\n1.2) Alt accounts will be banned\n1.3) Caging players is forbidden\n1.4) No blocking access tunnels to the underworld & wyvern nest locations\n1.5) Meshing is forbidden\n1.6) Trading & selling donation items or dinos is forbidden\n\n<RichColor Color=\"0.5,0,0.5,1\">BASES & BUILDING</>\n2.1) Base spots must be accessible without the use of exploits, structures, tools or weapons\n2.2) Open-air bases must not be in range of cave entrances or spawn points\n2.3) Spam must be kept to a minimum\n2.4) Carpet spam is forbidden\n2.5) Each tribe may only claim 1 cave per map\n2.6) Bases must not cause unnecessary server lag\n2.7) Dino traps must be cleared\n2.8) Blocked spawn points will be admin wiped\n2.9) Clipping structure into the mesh to prevent enemy structure placement will result in that area being wiped regardless of what is built above\n\n"
+                    },
+                    {
+                        "title": "",
+                        "text": "<RichColor Color=\"0.5,0,0.5,1\">RAIDING & FOBS</>\n3.1) Boxed tames & vehicles are forbidden\n3.2) Unattended fobs must not be left in range of any cave entrances\n3.3) After 12 hours of no activity tribes can report fobs to be admin cleared\n3.4) Team raiding is not allowed\n3.5) Deliberately causing excessive base lag during a raid will result in a temporary server ban\n\n<RichColor Color=\"0.5,0,0.5,1\">TRIBES</>\n4.1) No switching tribemates to bypass the tribe limit\n4.2) Tribe names & members must be identical on all maps\n4.3) Insiding your tribe in any capacity is strongly frowned upon and will result in a temporary server ban\n\n<RichColor Color=\"0.5,0,0.5,1\">NOTES</>\n● Abusing the rules & exploiting loop holes will not be tolerated\n● All punishments for rule violations are at the admin teams discretion and may vary\n● It is not the admin teams duty to issue players & tribes any warnings before taking action for rule violations\n● Structures in violation of any rule will be admin cleared on sight\n● We are not responsible for the loss of any loot lost to the mesh, server transfers, punishments, unavoidable roll backs, character glitches, tribe insiding or by any other means out of our control\n● These rules are not absolute, if something appears to have a directly negative impact to the server, fair gaming or population it will most likely be forbidden; seek clarification if ever in doubt"
+                    }
+                ]
+            },
+            {
+                "layout": 2,
+                "buttontext": "<RichColor Color=\"0,1,1,1\">LOOT DROPS</>",
+                "imageurl": "https://i.ibb.co/tpF67598/Background-7.png",
+                "content": [
+                    {
+                        "title": "",
+                        "text": "          ▌♦ WHITE LOOT DROPS\n          ▌10 x Dino colour Tokens\n\n<RichColor Color=\"0,1,0,1\">          ▌♦ GREEN LOOT DROPS</>\n<RichColor Color=\"0,1,0,1\">          ▌</>GREEN GEMS x 50,000\n\n<RichColor Color=\"0,0,1,1\">          ▌♦ BLUE LOOT DROPS</>\n<RichColor Color=\"0,0,1,1\">          ▌</>SADDLE BPs\n<RichColor Color=\"0,0,1,1\">          ▌</>Mastercraft - Ascendant\n<RichColor Color=\"0,0,1,1\">          ▌</>1 x Platform Saddle BP\n<RichColor Color=\"0,0,1,1\">          ▌</>1 x Tek Saddle BP\n<RichColor Color=\"0,0,1,1\">          ▌</>2 x Aquatic Saddle BPs\n<RichColor Color=\"0,0,1,1\">          ▌</>2 x Flyer Saddle BPs\n<RichColor Color=\"0,0,1,1\">          ▌</>2 x Reptilian Saddle BPs\n<RichColor Color=\"0,0,1,1\">          ▌</>2 x Land Saddle BPs\n\n<RichColor Color=\"0.5,0,0.5,1\">          ▌♦ PURPLE LOOT DROPS</>\n<RichColor Color=\"0.5,0,0.5,1\">          ▌</>ARMOR BPS\n<RichColor Color=\"0.5,0,0.5,1\">          ▌</>2 sets of full Armor BPs\n<RichColor Color=\"0.5,0,0.5,1\">          ▌</>Mastercraft - Ascendant\n<RichColor Color=\"0.5,0,0.5,1\">          ▌</>● Ghillie\n<RichColor Color=\"0.5,0,0.5,1\">          ▌</>● Flak\n<RichColor Color=\"0.5,0,0.5,1\">          ▌</>● Riot\n<RichColor Color=\"0.5,0,0.5,1\">          ▌</>● Tek\n\n<RichColor Color=\"1,1,0,1\">          ▌♦ YELLOW LOOT DROPS</>\n<RichColor Color=\"1,1,0,1\">          ▌</>WEAPON & TOOL BPs BPs\n<RichColor Color=\"1,1,0,1\">          ▌</>Mastercraft - Ascendant BPs\n<RichColor Color=\"1,1,0,1\">          ▌</>1 x Metal Sword BP\n<RichColor Color=\"1,1,0,1\">          ▌</>1 x Metal Pickaxe BP\n<RichColor Color=\"1,1,0,1\">          ▌</>1 x Metal Hatchet BP\n<RichColor Color=\"1,1,0,1\">          ▌</>8 x Random Weapon BPs\n\n<RichColor Color=\"1,0,0,1\">          ▌♦ RED LOOT DROPS</>\n<RichColor Color=\"1,0,0,1\">          ▌</>FLOATING STRUCTURES\n<RichColor Color=\"1,0,0,1\">          ▌</>5 random floating structures\n<RichColor Color=\"1,0,0,1\">          ▌</>Round Platforms\n<RichColor Color=\"1,0,0,1\">          ▌</>► Large, Medium, Small, Tiny\n<RichColor Color=\"1,0,0,1\">          ▌</>Round Dome Platforms\n<RichColor Color=\"1,0,0,1\">          ▌</>► Large, Medium, Small, Tiny\n<RichColor Color=\"1,0,0,1\">          ▌</>Square Platforms\n<RichColor Color=\"1,0,0,1\">          ▌</>► Large, Medium, Small, Tiny\n<RichColor Color=\"1,0,0,1\">          ▌</>Special Platforms\n<RichColor Color=\"1,0,0,1\">          ▌</>► Healing\n<RichColor Color=\"1,0,0,1\">          ▌</>► Generator\n<RichColor Color=\"1,0,0,1\">          ▌</>► Steampunk\n<RichColor Color=\"1,0,0,1\">          ▌</>► Landing\n<RichColor Color=\"1,0,0,1\">          ▌</>► Greenhouse (Greenhouse Effect and always Watering)\n<RichColor Color=\"1,0,0,1\">          ▌</>Water Cage\n<RichColor Color=\"1,0,0,1\">          ▌</>► Medium, Small\n<RichColor Color=\"1,0,0,1\">          ▌</>Platform Walkways\n<RichColor Color=\"1,0,0,1\">          ▌</>► Horizontal, Up, Down, Cross\n\n"
+                    },
+                    {
+                        "title": "",
+                        "text": ""
+                    }
+                ]
+            },
+            {
+                "layout": 4,
+                "buttontext": "<RichColor Color=\"0,1,1,1\">FPS CODES</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "",
+                        "text": "r.VolumetricCloud 0: (Disables clouds)\nr.volumetricfog 0 (Disables Fog)\nr.ShadowQuality 0 (disables all shadows)\nr.Water.SingleLayer.Reflection 0(Degrades water quality)\ngrass.enable 0 (Disables Grass)\nr.DynamicGlobalIlluminationMethod 0 (Disables Lumen)\nr.Lumen.Reflections.Allow 0 (Disables Lumen Reflections)\nr.MaterialQualityLevel 0 (Disables Textures)"
+                    },
+                    {
+                        "title": "<TextStyle.Green>Top right title</>",
+                        "text": "<TextStyle.Violet>This text goes into the top right box</>"
+                    },
+                    {
+                        "title": "<TextStyle.Blue>Bottom left title</>",
+                        "text": "<TextStyle.Red>This text goes into the bottom left box</>"
+                    },
+                    {
+                        "title": "<TextStyle.Yellow>Bottom right title</>",
+                        "text": "<TextStyle.White>This text goes into the bottom right box</>"
+                    }
+                ]
+            }
+        ],
+        "links": [
+            {
+                "text": "FULL FIBER DISCORD",
+                "url": "https://discord.gg/URDRDvGSbt"
+            }
+        ],
+        "version": 2
+    }
+}
