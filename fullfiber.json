@@ -44,7 +44,7 @@
             {
                 "layout": 2,
                 "buttontext": "<RichColor Color=\"0,1,1,1\">LOOT DROPS</>",
-                "imageurl": "https://i.ibb.co/39gRPgp0/Background-114.png",
+                "imageurl": "https://i.ibb.co/8nwLW96L/Background-115.png",
                 "content": [
                     {
                         "title": "",
@@ -89,4 +89,5 @@
         "version": 2
     }
 }
+
 
